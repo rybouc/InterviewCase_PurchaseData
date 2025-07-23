@@ -90,9 +90,9 @@ You are not expected to answer all of these questions in the limited time, but h
 Or, you may investigate and present what you believe is most important. 
 
 ## Tips
-1. Think about a structured approach to exploring the datasets and your analysis.
+1. Before launching into the task, consider a structured approach to exploring the datasets and your analysis.
 2. Communicate what you're doing by narrating your actions and decisions while you work.
-3. Ideally, presenting information via tables and charts helps create clarity. 
+3. Ideally, creating information summaries with tables and charts helps create clarity.
 
 ## References
 This dataset is an adaptation of a [kaggle dataset](https://www.kaggle.com/datasets/mexwell/google-merchandise-sales-data). Actual data records and descriptions might vary from the original source. 
