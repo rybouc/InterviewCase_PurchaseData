@@ -1,9 +1,9 @@
 # Case Interview: Ecommerce Purchase Data
-Public repository used for case interviews.
+Public repository used for case interviews. The goal of this block of time is to assess your ability to understand, manipulate, and present data using data science tools (Python or R at a minimum). 
 
 You are a growth data scientist for an ecommerce company that sells physical goods through an online store. The leadership team wants to understand how they might improve their top line revenue and gross margins. 
 
-Items below $50 generally have a 5% gross margin. Items $50 and above but below $100 generally have a 10% gross margin. Items $100 and above generally have a 15% gross margin.
+Gross profit is the diffrence between the sale price and the cost of selling the item, or cost of goods sold. Items below $50 generally have a 5% gross profit. Items $50 and above but below $100 generally have a 10% gross profit. Items $100 and above generally have a 15% gross profit.
 
 ## Data Dictionary - E-commerce Dataset
 
@@ -78,13 +78,15 @@ User Value Segments
 ## Task
 In the time provided, conduct an initial exploratory analysis and develop useful information and insights that can help the company make informed decisions. 
 
-You are not expected to answer all of these questions in the limited time, but here are some initial questions you might help the team answer: 
+Initial questions to answer: 
 1. How successful is the current website at converting visitors into purchases?
 2. Where is the company making the most revenue and profit?
+
+Some additional questions that you could explore: 
 3. What items might be worth discounting or increasing the price?
 4. What items might be good candidates for bundling offers?
-5. What items might the company promote on their website or from digital marketing campaigns?
-6. Digital marketing campaigns deals typically target specific countries or regions. Are there any areas where the team should prioritize those marketing dollars?
+5. What items might the company promote on their website or marketing campaigns?
+6. What geographies should the team prioritize for digital marketing campaigns?
 7. Are the lifetime value (LTV) segments good ones, or could they be improved on?
 
 Or, you may investigate and present what you believe is most important. 
