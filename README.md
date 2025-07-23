@@ -1,4 +1,4 @@
-# InterviewCase_PurchaseData
+# Case Interview: Ecommerce Purchase Data
 Public repository used for case interviews.
 
 You are a growth data scientist for an ecommerce company that sells physical goods through an online store. The leadership team wants to understand how they might improve their top line revenue and gross margins. 
@@ -93,6 +93,7 @@ Or, you may investigate and present what you believe is most important.
 1. Before launching into the task, consider a structured approach to exploring the datasets and your analysis.
 2. Communicate what you're doing by narrating your actions and decisions while you work.
 3. Ideally, creating information summaries with tables and charts helps create clarity.
+4. Use of AI tools is encouraged. However, you are responsible for understanding and explaining how all the outputs and conclusions were developed, to include how calculations were made and how packages or libraries were used in the analysis. 
 
 ## References
 This dataset is an adaptation of a [kaggle dataset](https://www.kaggle.com/datasets/mexwell/google-merchandise-sales-data). Actual data records and descriptions might vary from the original source. 
