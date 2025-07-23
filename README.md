@@ -68,10 +68,10 @@ Product Categories
 | `date` | DateTime | User registration/first seen date | 2020-10-13 05:08:47 | Account creation timestamp |
 
 User Value Segments
-- **No Value (LTV = 0)**: ~75% of users - No completed purchases
-- **Low Value (LTV $1-50)**: ~20% of users - Occasional buyers
-- **Medium Value (LTV $51-200)**: ~4% of users - Regular customers
-- **High Value (LTV $200+)**: ~1% of users - Premium customers
+- **No Value (LTV = 0)**: No completed purchases
+- **Low Value (LTV $1-50)**: Occasional buyers
+- **Medium Value (LTV $51-200)**: Regular customers
+- **High Value (LTV $200+)**: Premium customers
 
 ---
 
@@ -85,6 +85,7 @@ You are not expected to answer all of these questions in the limited time, but h
 4. What items might be good candidates for bundling offers?
 5. What items might the company promote on their website or from digital marketing campaigns?
 6. Digital marketing campaigns deals typically target specific countries or regions. Are there any areas where the team should prioritize those marketing dollars?
+7. Are the lifetime value (LTV) segments good ones, or could they be improved on?
 
 Or, you may investigate and present what you believe is most important. 
 
