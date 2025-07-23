@@ -80,7 +80,7 @@ In the time provided, conduct an initial exploratory analysis and develop useful
 
 You are not expected to answer all of these questions in the limited time, but here are some initial questions you might help the team answer: 
 1. How successful is the current website at converting visitors into purchases?
-2. Where is the company making the most gross margin?
+2. Where is the company making the most revenue and profit?
 3. What items might be worth discounting or increasing the price?
 4. What items might be good candidates for bundling offers?
 5. What items might the company promote on their website or from digital marketing campaigns?
