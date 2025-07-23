@@ -31,7 +31,7 @@ This document provides detailed descriptions of all columns in the three main da
 | `item_id` | Integer | Unique identifier for the product | 94, 425, 1, 62 | Foreign key to items.id |
 | `date` | DateTime | Timestamp when the event occurred | 2020-11-01 00:27:14 | UTC timezone, YYYY-MM-DD HH:MM:SS format |
 
-Event Types Distribution
+Event Types
 - **add_to_cart**: Items added to shopping cart
 - **begin_checkout**: Checkout process initiated
 - **purchase**: Completed transactions
