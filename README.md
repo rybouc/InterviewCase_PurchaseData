@@ -85,7 +85,7 @@ We want you to demonstrate that **you** can:
 
 Initial questions to answer: 
 1. How successful is the current website at converting sessions into purchases?
-2. What are the products or categories are generating the most revenue and profit?
+2. What products or categories are generating the most revenue and profit?
 
 Some additional questions that you could explore: 
 1. What items might be worth discounting or increasing the price?
