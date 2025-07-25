@@ -78,16 +78,20 @@ User Value Segments
 ## Task
 In the time provided, conduct an initial exploratory analysis and develop useful information and insights that can help the company make informed decisions. 
 
+We want you to demonstrate that **you** can:
+1. Join datasets
+2. Aggregate and manipulate data
+3. Create visuals that clearly communicate information
+
 Initial questions to answer: 
-1. How successful is the current website at converting visitors into purchases?
+1. How successful is the current website at converting sessions into purchases?
 2. Where is the company making the most revenue and profit?
 
 Some additional questions that you could explore: 
-3. What items might be worth discounting or increasing the price?
-4. What items might be good candidates for bundling offers?
-5. What items might the company promote on their website or marketing campaigns?
-6. What geographies should the team prioritize for digital marketing campaigns?
-7. Are the lifetime value (LTV) segments good ones, or could they be improved on?
+1. What items might be worth discounting or increasing the price?
+2. What items might the company promote on their website or in marketing campaigns?
+3. What geographies should the team prioritize for digital marketing campaigns?
+4. Are the lifetime value (LTV) segments good ones, or could they be improved on?
 
 Or, you may investigate and present what you believe is most important. 
 
