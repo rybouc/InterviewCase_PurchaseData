@@ -24,7 +24,7 @@ This document provides detailed descriptions of all columns in the three main da
 | Column Name | Data Type | Description | Example Values | Notes |
 |-------------|-----------|-------------|----------------|-------|
 | `user_id` | Integer | Unique identifier for each user | 2133, 5789, 5808 | Foreign key to users.id |
-| `ga_session_id` | Integer | Google Analytics session identifier | 16909, 16908, 4267 | Groups events within a user session |
+| `ga_session_id` | Integer | Web cookie session identifier | 16909, 16908, 4267 | Groups events within a user session |
 | `country` | String | Two-letter country code where event occurred | US, SE, CA, GB | ISO country codes |
 | `device` | String | Device type used for the event | mobile, desktop, tablet | Categories: mobile, desktop, tablet |
 | `type` | String | Type of user interaction | purchase, add_to_cart, begin_checkout | Event funnel stages |
