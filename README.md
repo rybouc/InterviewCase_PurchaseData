@@ -3,7 +3,7 @@ Public repository used for case interviews. The goal of this block of time is to
 
 You are a growth data scientist for an ecommerce company that sells physical goods through an online store. The leadership team wants to understand how they might improve their top line revenue and gross margins. 
 
-Gross profit is the diffrence between the sale price and the cost of selling the item, or cost of goods sold. Items below $50 generally have a 5% gross profit. Items $50 and above but below $100 generally have a 10% gross profit. Items $100 and above generally have a 15% gross profit.
+Gross profit is the difference between the sale price and the cost of selling the item, or cost of goods sold. Items below $50 generally have a 5% gross profit. Items $50 and above but below $100 generally have a 10% gross profit. Items $100 and above generally have a 15% gross profit.
 
 ## Data Dictionary - E-commerce Dataset
 
